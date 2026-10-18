@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "emma.jpeg"
+image: "emma.jpg"
 links:
   - label: GitHub
     url: "https://github.com/Tristandupuy"
@@ -11,8 +11,10 @@ output:
 site: distill::distill_website
 ---
 
-I am an Assistant Professor in the Department of Economics at Sciences Po. I was a Postdoctoral Researcher at the Columbia University Center for Political Economy in 2025-2026.
-I work on questions in environmental economics, empirical industrial organization and labor economics. I received my PhD in Sustainable Development from Columbia University.
+I am an Assistant Professor in the Department of Economics at Sciences Po, and I work on questions in environmental economics, empirical industrial organization and labor economics.
+
+Prior to joining Sciences Po, I was a Postdoctoral Researcher at the Columbia University Center for Political Economy in 2025-2026, and I received my PhD in Sustainable Development from Columbia University.
+
 
 I go by Emma and use she/her pronouns.
 
